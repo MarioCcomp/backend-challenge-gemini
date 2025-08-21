@@ -98,14 +98,6 @@ Resposta:
 
 ------------------------------------------------------------------------
 
-🧪 Testes
-
-Para rodar os testes automatizados:
-
-    mvn test
-
-------------------------------------------------------------------------
-
 📌 Melhorias Futuras
 
 -   Implementar atualização de notificações (PUT/PATCH)
